@@ -9,3 +9,5 @@ In this project we conduct:
 
 2) Storing, analyzing, and visualizing your wrangled data
 
+The dataset contains data from the twitter account WeRateDogs that rate's people dogs.
+
